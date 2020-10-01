@@ -8,4 +8,5 @@ Light newsletter
 Self hosted
 
 - https://listmonk.app/
+- https://sendportal.io/
 - https://sendy.co/ (1x payment, PHP)
