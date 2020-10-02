@@ -4,6 +4,7 @@ Light newsletter
 
 - https://www.getrevue.co/
 - https://tinyletter.com/
+- https://buttondown.email/
 
 Self hosted
 
