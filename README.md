@@ -2,9 +2,15 @@
 
 Light newsletter
 
-- https://www.getrevue.co/
 - https://tinyletter.com/
-- https://buttondown.email/
+- https://buttondown.email/ - write in markdown!
+
+Paid newsletters
+
+- Revue by Twitter
+- https://www.upscribe.net/
+- https://www.getrevue.co/
+- Substack
 
 Self hosted
 
