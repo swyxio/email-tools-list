@@ -1,3 +1,5 @@
+> now moved to https://github.com/sw-yx/brain
+
 # email-tools-list
 
 Light newsletter
